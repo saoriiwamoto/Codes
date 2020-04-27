@@ -4,6 +4,7 @@ clear all
 cd 	"{directory}"
 use "data.dta"
 
+
 * Plot for the average score of IDELA when controlling for other variables (with CI bar)
 gl idelavars 	enumpct 	soemopct 	elitpct 	motorpct 	idelapct 	efpct 		atlpct 
 gl hlevars 		nreadmats 	ntoytypes 	sum_hle 	sum_hla 	sum_neg
