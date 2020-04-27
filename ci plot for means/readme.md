@@ -2,11 +2,11 @@
 
 The graph is useful in comparing the means of the two categorical groups. With confidence interval, the preciseness of the similarities are easier to understand.
 
-## Code
+## Code explanation
 
 For details, please refer to [do.do](https://github.com/saoriiwamoto/Codes/blob/master/ci%20plot%20for%20means/do.do) for details 
 
-### Code
+### Code lines 
 
 Load dataset
 
