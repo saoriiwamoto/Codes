@@ -2,7 +2,7 @@
 
 		clear all	
 
-		cd 		"C:\github\stata_code\line graph"
+		cd 		"{directory}"
 		use 	"data.dta"
 
 twoway (lowess overall age_m if treatment==0, color("blue") sort) (lowess overall age_m if treatment==1, color("red") sort) ///
@@ -18,5 +18,5 @@ ylab(,angle(0) nogrid) title(, justification(left) color(black) span pos(11)) su
 
 graph export "figure.png", as(png) replace
 
-continue writing the code on the main repository.
+
 
