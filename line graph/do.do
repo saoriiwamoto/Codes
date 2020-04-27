@@ -18,7 +18,5 @@ ylab(,angle(0) nogrid) title(, justification(left) color(black) span pos(11)) su
 
 graph export "figure.png", as(png) replace
 
-* adding stata_code or modifying it
-* additing even more edition before adding this back.
 
 
