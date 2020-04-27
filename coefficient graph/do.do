@@ -1,7 +1,7 @@
 
 clear all	
 
-cd 	"C:\github\stata_code\coefficient graph"
+cd 	"{directory}"
 use "data.dta"
 
 * Plot for the average score of IDELA when controlling for other variables (with CI bar)

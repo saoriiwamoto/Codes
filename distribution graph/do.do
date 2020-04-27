@@ -2,7 +2,7 @@
 
 		clear all	
 
-		cd 		"C:\github\stata_code\distribution graph"
+		cd 		"{direcotry}"
 		use 	"data.dta"
 
 

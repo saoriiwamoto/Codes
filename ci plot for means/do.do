@@ -1,7 +1,7 @@
 
 clear all	
 
-cd 	"C:\github\stata_code\ci plot for means"
+cd 	"{directory}"
 use "data.dta"
 
 *Raw score with CI
