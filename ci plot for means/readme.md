@@ -4,7 +4,7 @@ The graph is useful in comparing the means of the two categorical groups. With c
 
 ## Code
 
-For details, please refer to .do file
+For details, please refer to [do.do](https://github.com/saoriiwamoto/Codes/blob/master/ci%20plot%20for%20means/do.do) for details 
 
 ### Code
 
