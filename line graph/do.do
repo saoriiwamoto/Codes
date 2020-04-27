@@ -17,3 +17,7 @@ graphregion(color(white)) legend(region(lc(none) fc(none))) ///
 ylab(,angle(0) nogrid) title(, justification(left) color(black) span pos(11)) subtitle(, justification(left) color(black))
 
 graph export "figure.png", as(png) replace
+
+adding stata_code or modifying it
+
+
