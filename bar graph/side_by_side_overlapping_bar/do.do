@@ -14,7 +14,7 @@ tw (hist momeduc_highest if treatment==1, freq lcolor(gs12) fcolor(gs12)) (hist 
 * Graph 2
 tw (hist dadeduc_highest if treat==1, freq lcolor(gs12) fcolor(gs12)) (hist dadeduc_highest if treat==0, freq fcolor(orange%40) lcolor(orange%40)), legend(off) xtitle("Gray: Treatment, Orange: Control") ytitle("") ///
 	title(Father's education) xlab(1(1)4 , nogrid notick labsize(small) ) graphregion(color(white)) bgcolor(white) ylab(0(10)70) ///
-	name(daded) // graph drop momed daded
+	name(daded) // 
 
 * Placing the graphs side by side
 graph combine momed daded, ycommon xcommon com scheme(s1mono)
