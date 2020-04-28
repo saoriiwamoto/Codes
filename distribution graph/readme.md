@@ -4,7 +4,7 @@ The graph is useful for visualizing the distribution of scores of two different 
 
 ## Code
 
-For details, please refer to [do.do](https://github.com/saoriiwamoto/Codes/blob/master/line%20graph/do.do) for details 
+For details, please refer to [do.do](https://github.com/saoriiwamoto/Codes/blob/master/distribution%20graph/do.do) for details 
 
 ### Code
 
@@ -65,7 +65,7 @@ graph export "figure.png", as(png) name("Graph") replace
 Please read [CONTRIBUTING.md](https://gist.github.com/TBD) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Graph example: 
-![alt text](https://github.com/saoriiwamoto/Codes/blob/master/line%20graph/figure.png "ditribution graph with shaded area")
+![alt text](https://github.com/saoriiwamoto/Codes/blob/master/distribution%20graph/figure.png "ditribution graph with shaded area")
 
 ## Authors
 
